@@ -13,3 +13,6 @@ out
 *.ear
 hs_err_pid*
 
+.gradle/
+build/
+
